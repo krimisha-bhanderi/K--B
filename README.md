@@ -19,8 +19,9 @@ circlet question 5
 circlet question 6 printing a star patter of letter 'B'
 ![Screenshot (23)](https://github.com/krimisha-bhanderi/K--B/assets/131655711/f3538ebb-b2da-49bb-912b-71c6bc48ec37)
 
-circlet question 6 printing a star patter of letter 'Q'
+circlet question 6 printing a star patter of letter 'Z'
 ![Screenshot (24)](https://github.com/krimisha-bhanderi/K--B/assets/131655711/6237a62c-bda7-4fd6-883d-4466d9663543)
 
-circlet question 6 printing a star patter of letter 'Z'
-![Screenshot (24)](https://github.com/krimisha-bhanderi/K--B/assets/131655711/9bc12783-9f56-4061-bd2d-79de09646fd4)
+circlet question 6 printing a star patter of letter 'Q'
+![Screenshot (25)](https://github.com/krimisha-bhanderi/K--B/assets/131655711/ed215c72-4fef-486d-9de5-1b9ad399cbaf)
+
